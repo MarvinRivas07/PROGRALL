@@ -1,0 +1,11 @@
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\obj\Debug\Zapateria.csproj.AssemblyReference.cache
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\obj\Debug\Zapateria.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\obj\Debug\Zapateria.Form1.resources
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\obj\Debug\Zapateria.Properties.Resources.resources
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\obj\Debug\Zapateria.csproj.GenerateResource.cache
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\obj\Debug\Zapateria.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\obj\Debug\Zapateria.exe
+C:\Users\Marvi\Desktop\PROGRA ll\Zapateria\Zapateria\obj\Debug\Zapateria.pdb
